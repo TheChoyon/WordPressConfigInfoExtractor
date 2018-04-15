@@ -5,6 +5,10 @@ A handy script designed to collect all the MySQL db name, username, password, ho
 
 --------------------------------
 
+Trailer:
+-------
+What if you want those MySQL db name, username, password, host from all your wordpress config files so that you can use them to login somewhere when needed? copying seems boring right? Here comes my script for resolving this issue!
+
 Usage:
 -----
 It's too simple to use!<br>
